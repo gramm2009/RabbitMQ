@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "S/LNnwKJbNhlgdDNzoPG9OYG7FhAkT6Vc7hjDKMgpVj8GPz8ZBKOvlkh/UYaKSAoYHLbrlKRTLdVGDhF1WBf7w==",
+  "success": true,
+  "projectFilePath": "C:\\viktor\\repo\\projects\\RabbitMQ\\4_Producer_fanout\\4_Producer_fanout.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usermf\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\usermf\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\usermf\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

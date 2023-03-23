@@ -1,0 +1,17 @@
+C:\viktor\repo\projects\RabbitMQ\4_Consumer.Nalog_fanout\bin\Debug\net7.0\4_Consumer.Nalog_fanout.exe
+C:\viktor\repo\projects\RabbitMQ\4_Consumer.Nalog_fanout\bin\Debug\net7.0\4_Consumer.Nalog_fanout.deps.json
+C:\viktor\repo\projects\RabbitMQ\4_Consumer.Nalog_fanout\bin\Debug\net7.0\4_Consumer.Nalog_fanout.runtimeconfig.json
+C:\viktor\repo\projects\RabbitMQ\4_Consumer.Nalog_fanout\bin\Debug\net7.0\4_Consumer.Nalog_fanout.dll
+C:\viktor\repo\projects\RabbitMQ\4_Consumer.Nalog_fanout\bin\Debug\net7.0\4_Consumer.Nalog_fanout.pdb
+C:\viktor\repo\projects\RabbitMQ\4_Consumer.Nalog_fanout\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\viktor\repo\projects\RabbitMQ\4_Consumer.Nalog_fanout\obj\Debug\net7.0\4_Consumer.Nalog_fanout.csproj.AssemblyReference.cache
+C:\viktor\repo\projects\RabbitMQ\4_Consumer.Nalog_fanout\obj\Debug\net7.0\4_Consumer.Nalog_fanout.GeneratedMSBuildEditorConfig.editorconfig
+C:\viktor\repo\projects\RabbitMQ\4_Consumer.Nalog_fanout\obj\Debug\net7.0\4_Consumer.Nalog_fanout.AssemblyInfoInputs.cache
+C:\viktor\repo\projects\RabbitMQ\4_Consumer.Nalog_fanout\obj\Debug\net7.0\4_Consumer.Nalog_fanout.AssemblyInfo.cs
+C:\viktor\repo\projects\RabbitMQ\4_Consumer.Nalog_fanout\obj\Debug\net7.0\4_Consumer.Nalog_fanout.csproj.CoreCompileInputs.cache
+C:\viktor\repo\projects\RabbitMQ\4_Consumer.Nalog_fanout\obj\Debug\net7.0\4_Consumer.Nalog_fanout.csproj.CopyComplete
+C:\viktor\repo\projects\RabbitMQ\4_Consumer.Nalog_fanout\obj\Debug\net7.0\4_Consumer.Nalog_fanout.dll
+C:\viktor\repo\projects\RabbitMQ\4_Consumer.Nalog_fanout\obj\Debug\net7.0\refint\4_Consumer.Nalog_fanout.dll
+C:\viktor\repo\projects\RabbitMQ\4_Consumer.Nalog_fanout\obj\Debug\net7.0\4_Consumer.Nalog_fanout.pdb
+C:\viktor\repo\projects\RabbitMQ\4_Consumer.Nalog_fanout\obj\Debug\net7.0\4_Consumer.Nalog_fanout.genruntimeconfig.cache
+C:\viktor\repo\projects\RabbitMQ\4_Consumer.Nalog_fanout\obj\Debug\net7.0\ref\4_Consumer.Nalog_fanout.dll
