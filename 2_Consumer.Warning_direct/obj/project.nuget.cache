@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "1O5GpCLWQGAuhKuUiRfcIcz7YQZltUniXezmy+CcCjEhFaxeRZgtcIqjPqlfPjFL8/ID/zML1ARHSA3Hdi84NA==",
+  "dgSpecHash": "b1eTJfOXOTmOoM9uSX2NJgdOOLnzDR0WwFj3LWxbfzHOw1oz4A8wJrU6ayzrEETVYiFzz3RJVCss0gCTuIb7DQ==",
   "success": true,
   "projectFilePath": "C:\\viktor\\repo\\projects\\RabbitMQ\\2_Consumer.Warning_direct\\2_Consumer.Warning_direct.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\usermf\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\usermf\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\usermf\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
   "logs": []
 }

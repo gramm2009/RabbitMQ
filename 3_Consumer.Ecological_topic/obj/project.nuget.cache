@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "p0qEeqyZXoKYSR5AWzMdyzrLBNRjYwFy2v8Mr6JezKHxlIN5Me/uQUpXRuLIbjGbRHOe/ubuQcKIG/JofEIbYA==",
+  "dgSpecHash": "r6c0snn9a1hotwG9cOR2TFwTDXK5wDE4q++wSQI299jABnvLREQYsEbJw9sVE0t1Rd5NwWfdcp/UEVeAQjMjRw==",
   "success": true,
   "projectFilePath": "C:\\viktor\\repo\\projects\\RabbitMQ\\3_Consumer.Ecological_topic\\3_Consumer.Ecological_topic.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\usermf\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\usermf\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\usermf\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
   "logs": []
 }
